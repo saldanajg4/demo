@@ -94,3 +94,11 @@ D:\users\gabriel\vsprojects\Demo\DemoApiTests\obj\Debug\netcoreapp3.1\DemoApiTes
 D:\users\gabriel\vsprojects\Demo\DemoApiTests\obj\Debug\netcoreapp3.1\DemoApiTests.dll
 D:\users\gabriel\vsprojects\Demo\DemoApiTests\obj\Debug\netcoreapp3.1\DemoApiTests.pdb
 D:\users\gabriel\vsprojects\Demo\DemoApiTests\obj\Debug\netcoreapp3.1\DemoApiTests.genruntimeconfig.cache
+D:\users\gabriel\vsprojects\Demo\DemoApiTests\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\users\gabriel\vsprojects\Demo\DemoApiTests\bin\Debug\netcoreapp3.1\appsettings.json
+D:\users\gabriel\vsprojects\Demo\DemoApiTests\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\users\gabriel\vsprojects\Demo\DemoApiTests\bin\Debug\netcoreapp3.1\DemoApi.exe
+D:\users\gabriel\vsprojects\Demo\DemoApiTests\bin\Debug\netcoreapp3.1\Castle.Core.dll
+D:\users\gabriel\vsprojects\Demo\DemoApiTests\bin\Debug\netcoreapp3.1\Moq.dll
+D:\users\gabriel\vsprojects\Demo\DemoApiTests\bin\Debug\netcoreapp3.1\DemoApi.dll
+D:\users\gabriel\vsprojects\Demo\DemoApiTests\bin\Debug\netcoreapp3.1\DemoApi.pdb

@@ -1,1 +1,3 @@
-DempApiTests.UnitTest1.Test1
+DemoApiTests.VehicleBuyingProcessTests.ShouldReturnCreateLocationResult
+DemoApiTests.VehicleBuyingProcessTests.ShouldThrowExceptionWhenRequestIsNull
+DemoApiTests.VehicleBuyingProcessTests.ShouldSaveLocation
